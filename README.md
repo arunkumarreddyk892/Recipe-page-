@@ -7,7 +7,7 @@ The goal of this project is to build a clean, responsive recipe page using **sem
 
 ## 📸 Screenshot
 
-https://github.com/arunkumarreddyk892/Recipe-page-/blob/main/assets/images/image-omelette.jpeg?raw=true
+<img width="1312" height="600" alt="image-omelette" src="https://github.com/user-attachments/assets/14132b98-df9b-40be-a4a6-d13ce33203b3" />
 
 ---
 
