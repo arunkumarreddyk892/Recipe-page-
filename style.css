@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #f3e5d8;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 40px ;
+}
+
+.container {
+  background-color: white;
+  width: 600px;
+  padding: 25px;
+  border-radius: 18px;
+}
+
+.container img {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 28px;
+}
+
+.description {
+  color: #555;
+  line-height: 1.5;
+}
+
+.prep {
+  background-color: #fff1f5;
+  padding: 15px;
+  border-radius: 12px;
+  margin: 20px 0;
+}
+
+.prep h3 {
+  color: #7a284e;
+}
+
+.prep ul {
+  padding-left: 20px;
+}
+
+h2 {
+  color: #854632;
+}
+
+.ingredients,
+.instructions {
+  padding-left: 20px;
+}
+
+.ingredients li,
+.instructions li {
+  margin-bottom: 10px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 25px 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table tr {
+  border-bottom: 1px solid #ddd;
+}
+
+table td {
+  padding: 10px 0;
+}
+
+.value {
+  font-weight: bold;
+  color: #854632;
+}
