@@ -7,15 +7,13 @@ The goal of this project is to build a clean, responsive recipe page using **sem
 
 ## 📸 Screenshot
 
-![Recipe Page Screenshot](./assets/images/screenshot.png)
-
-> *(Optional: You can add a screenshot image later. This section is not mandatory.)*
+https://github.com/arunkumarreddyk892/Recipe-page-/blob/main/assets/images/image-omelette.jpeg?raw=true
 
 ---
 
 ## 🔗 Links
 
-- **Live Site URL:** https://your-site-name.netlify.app  
+- **Live Site URL:** https://omelette-recipe-892.netlify.app  
 - **Repository URL:** https://github.com/arunkumarreddyk892/Recipe-page-
 
 ---
@@ -60,7 +58,7 @@ I overcame this by using proper padding, margin, and Flexbox alignment instead o
 
 ## 👤 Author
 
-- **Name:** Arun Kumar Reddy  
+- **Name:** K.Arun Kumar Reddy  
 - **Frontend Mentor:** https://www.frontendmentor.io/profile/arunkumarreddyk892  
 - **GitHub:** https://github.com/arunkumarreddyk892
 
